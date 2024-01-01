@@ -9,8 +9,14 @@ namespace Caro
 
         private void button1_Click(object sender, EventArgs e)
         {
-            BanCo banCo = new BanCo();
-            banCo.ShowDialog();
+            ChessBoard local = new ChessBoard();
+            local.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CaroAI local = new CaroAI();
+            local.ShowDialog();
         }
     }
 }

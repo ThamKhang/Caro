@@ -30,11 +30,13 @@
         {
             panel1 = new Panel();
             button1 = new Button();
+            button2 = new Button();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.Controls.Add(button2);
             panel1.Controls.Add(button1);
             panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(0, 0);
@@ -52,6 +54,16 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // button2
+            // 
+            button2.Location = new Point(312, 213);
+            button2.Name = "button2";
+            button2.Size = new Size(216, 54);
+            button2.TabIndex = 1;
+            button2.Text = "Chơi Ngay";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -68,5 +80,6 @@
 
         private Panel panel1;
         private Button button1;
+        private Button button2;
     }
 }

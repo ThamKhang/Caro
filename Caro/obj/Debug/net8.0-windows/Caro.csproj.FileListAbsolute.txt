@@ -3,7 +3,6 @@ C:\odoo\C#\Caro\Caro\bin\Debug\net8.0-windows\Caro.deps.json
 C:\odoo\C#\Caro\Caro\bin\Debug\net8.0-windows\Caro.runtimeconfig.json
 C:\odoo\C#\Caro\Caro\bin\Debug\net8.0-windows\Caro.dll
 C:\odoo\C#\Caro\Caro\bin\Debug\net8.0-windows\Caro.pdb
-C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.BanCo.resources
 C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.Form1.resources
 C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.csproj.GenerateResource.cache
 C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,3 +15,5 @@ C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.pdb
 C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
 C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
 C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.ChessBoard.resources
+C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.sourcelink.json
+C:\odoo\C#\Caro\Caro\obj\Debug\net8.0-windows\Caro.CaroAI.resources
